@@ -5,7 +5,7 @@ import subprocess
 import sys
 import os
 import argparse
-from PIL import Image
+from pillow import Image
 qr_version="0.1"
 banner='''
   e88 88e   888 88e    e88'Y88
